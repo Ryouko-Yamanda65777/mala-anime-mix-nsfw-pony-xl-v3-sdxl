@@ -1,0 +1,4 @@
+python-telegram-bot
+diffusers
+huggingface_hub
+torch
